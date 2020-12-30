@@ -14,6 +14,7 @@
     dependencies {
         implementation fileTree(includes: ['*.jar'], dir: 'libs')
         implementation(name: "filter:{version}", ext: 'aar')
+        implementation 'com.google.code.gson:gson:2.8.6' // and this      
             ....
     }
     ```
