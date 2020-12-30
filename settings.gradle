@@ -1,3 +1,4 @@
+include ':app_kotlin'
 include ':filter'
 include ':app'
 rootProject.name = "TymBleFilterSDK"
