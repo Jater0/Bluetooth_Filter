@@ -1,0 +1,3 @@
+include ':filter'
+include ':app'
+rootProject.name = "TymBleFilterSDK"
